@@ -163,7 +163,8 @@ function buildCharts(sample) {
         width: 500, 
         height: 350, 
         margin: { t: 0, b: 0 },
-        paper_bgcolor: "white",
+        plot_bgcolor: "lavender",
+        paper_bgcolor: "lavender",
         font: { color: "black", family: "Arial" }
     };
 

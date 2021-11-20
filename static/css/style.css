@@ -1,0 +1,10 @@
+body {
+    color: #000000;
+    background-image: url("../images/pagebg.jpg")
+}
+
+.jumbotron {
+    background-image: url("../images/biod.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
